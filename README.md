@@ -1,4 +1,4 @@
-# Unity-PS-Vita-Shader-Based-Animation
+# Unity PS Vita Shader Based Animation
 
 ![GitHub](https://img.shields.io/github/license/ParkingLotGames/Unity-PS-Vita-Shader-Based-Animation)
 ![](https://img.shields.io/badge/unity-5.6+%2B-brightgreen)
